@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @jordtapiar
-- 👀 I’m interested in ing.Informatica
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hola, Soy @jordtapiar
+- 👀 Soy Analista programador computacional
+
 
 <!---
 jordtapiar/jordtapiar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
